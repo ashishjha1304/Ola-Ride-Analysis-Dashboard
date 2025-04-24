@@ -36,9 +36,7 @@ This project leverages **Microsoft Power BI** to analyze comprehensive Ola Cab r
 
 Access the Power BI report file (`.pbix`) here:
 
-🔗 [GitHub Repository](https://github.com/yourusername/ola-project)
-
-> Replace the above link with your actual repository URL after uploading the `.pbix` file.
+🔗 [GitHub Repository](https://github.com/ashishjha1304/Ola-Ride-Analysis-Dashboard)
 
 ---
 
@@ -72,8 +70,8 @@ Access the Power BI report file (`.pbix`) here:
 
 For feedback, questions, or collaboration opportunities, feel free to connect:
 
-- 📧 Email: ashishjha1304@outlook.com
-- 🔗 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
+- 📧 Email: ashishjha1304@gmail.com  
+- 🔗 LinkedIn: [https://www.linkedin.com/in/ashishjha1304](https://www.linkedin.com/in/ashishjha1304)
 
 ---
 
@@ -84,5 +82,3 @@ Thank you to the Power BI community for continuous support and inspiration.
 ---
 
 ⭐ If you find this project valuable, please give it a star on GitHub!
-
-
