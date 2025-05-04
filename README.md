@@ -70,7 +70,7 @@ Access the Power BI report file (`.pbix`) here:
 
 For feedback, questions, or collaboration opportunities, feel free to connect:
 
-- 📧 Email: ashishjha1304@gmail.com  
+- 📧 Email: ashishjha1304@outlook.com  
 - 🔗 LinkedIn: [https://www.linkedin.com/in/ashishjha1304](https://www.linkedin.com/in/ashishjha1304)
 
 ---
